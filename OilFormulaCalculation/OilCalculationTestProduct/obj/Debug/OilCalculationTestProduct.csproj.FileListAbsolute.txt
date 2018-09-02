@@ -1,0 +1,7 @@
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\bin\Debug\OilCalculationTestProduct.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\bin\Debug\OilCalculationTestProduct.pdb
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\bin\Debug\OilCompanyFormulation.exe
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\bin\Debug\OilCompanyFormulation.pdb
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\obj\Debug\OilCalculationTestProduct.csprojResolveAssemblyReference.cache
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\obj\Debug\OilCalculationTestProduct.dll
+c:\users\icsssd0336\documents\visual studio 2013\Projects\OilCompanyFormulation\OilCalculationTestProduct\obj\Debug\OilCalculationTestProduct.pdb
